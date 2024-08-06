@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    border: 2px solid black;
+    justify-content: space-around !important;
+    align-items: center;
+    background-color: black;
+  }
+  
+  .logo img {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .navlinks {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+  }
+  
+  .navlinks a {
+    text-decoration: none;
+    color: white;
+  }
+
+
